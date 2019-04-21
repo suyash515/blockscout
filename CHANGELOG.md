@@ -19,6 +19,7 @@
  - [#1768](https://github.com/poanetwork/blockscout/pull/1768) - fix first block parameter
  - [#1778](https://github.com/poanetwork/blockscout/pull/1778) - Make websocket optional for realtime fetcher
  - [#1795](https://github.com/poanetwork/blockscout/pull/1795) - fix line numbers for decompiled contracts
+ - [#1799](https://github.com/poanetwork/blockscout/pull/1799) - Use eth_getUncleByBlockHashAndIndex for uncle block fetching
 
 ### Chore
 
